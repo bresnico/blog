@@ -1,5 +1,4 @@
 ---
-action_label: Read More &rarr;
 action_link: /about
 action_type: text
 description: Apprenez à connaître le champ des forces de caractère en psychologie positive. Découvrez comment l'hétérogénéité dans le groupe est un recueil de richesses et d'opportunités pour optimiser les apprentissages scolaires.
@@ -11,7 +10,7 @@ action_label: "En savoir plus &rarr;"
 show_social_links: true
 subtitle: Développer la cohésion de groupe en contexte hétérogène
 text_align_left: false
-title: Cultiver les forces !
+title: Cultiver les forces !
 type: home
 ---
 

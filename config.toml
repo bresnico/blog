@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "sandbox.nicolasbressoud.ch"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Emotions, Apprentissages et Bien-être"
