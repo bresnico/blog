@@ -1,0 +1,11 @@
+---
+title: Essai NBR now
+author: Nicolas Bressoud
+date: '2021-07-05'
+slug: []
+categories:
+  - R
+tags: []
+---
+
+Je sais pas ce que je fais. J'essaie.
