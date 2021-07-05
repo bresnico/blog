@@ -1,18 +1,18 @@
 ---
 ## Configure sidebar content in narrow column
-author: "Hugo Apéro"
-role: "A Hugo theme"
+author: "Nicolas Bressoud"
+role: "Formateur HEP"
 avatar_shape: rounded # circle, square, rounded, leave blank to exclude
 show_social_links: true # specify social accounts in site config
-audio_link_label: "How to say my name" # leave blank to exclude
-link_list_label: "Interests" # bookmarks, elsewhere, etc.
+audio_link_label: # leave blank to exclude
+link_list_label: "Affiliations" # bookmarks, elsewhere, etc.
 link_list:
-- name: Paris
-  url: https://en.wikipedia.org/wiki/Paris
-- name: Pastries
-  url: https://en.wikipedia.org/wiki/Pastry
-- name: People
-  url: https://en.wikipedia.org/wiki/People
+- name: HEP-VS
+  url: http://www.hepvs.ch
+- name: UNIFR
+  url: https://www.unifr.ch
+- name: Équipe R&D EMA
+  url: https://competences-emotionnelles.ch
 ---
 
 ** index doesn't contain a body, just front matter above.

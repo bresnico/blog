@@ -3,10 +3,11 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Hi, my name is Hugo Apéro. Nice to meet you.
+   Bonjour, Je m'appelle Nicolas Bressoud. Bienvenue.
 ---
 
 <!-- this is a subheadline -->
-I'm a Hugo theme you'll want to hang out with. :fr: 
 
-The page you are reading is based on a markdown file- look in `content/about/` to edit. There, look inside the `header`, `main`, and `sidebar` folders to get started building your own "about" page.
+Je m'intéresse à la formation du personnel enseignant, en particulier dans les domaines comme l'inclusion scolaire et la gestion de l'hétérogénéité.
+
+A part ça, j'adore prendre du temps sur R et RStudio. Saviez-vous que ce site est fait à partir du package `blogdown` ?

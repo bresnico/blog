@@ -3,23 +3,25 @@ description: Thank you to all the contributors!
 draft: false
 layout: standard
 show_title_as_headline: true
-title: Contributors
+title: Héritage
 ---
 
-Thank you to all the folks who have contributed both technical and creative skills to this project:
+Je suis très reconnaissant de pouvoir utiliser les ressources en libre accès de personnes passionnées et altruistes. Chaque contribution permet à des personnes lambda comme moi de toucher à des outils fantastiques. J'ai repris la liste ici à partir du site de démonstration d'Alison Hill :
 
-+ [Desirée De Leon :giraffe:](http://desiree.rbind.io/) (designed 5 of the custom color themes, made illustrations for the workshop, and provided general aesthetic feedback along the way)
++ [Alison Hill](https://alison.rbind.io/about/)
 
-+ [Garrick Aden-Buie :mage:](https://www.garrickadenbuie.com/) (debugged headroom.js and lent his panelset.js code to the theme)
++ [Desirée De Leon :giraffe:](http://desiree.rbind.io/)
 
-+ [Allison Horst :dog2:](https://www.allisonhorst.com/) (awesome illustrations of campfires, seedlings, and evergreens, as well as my R Markdown hedgehog mascot :hedgehog:)
++ [Garrick Aden-Buie :mage:](https://www.garrickadenbuie.com/)
 
-+ [Maëlle Salmon :fishing_pole_and_fish:](https://masalmon.eu/) (help with features, and naming the theme [Hugo Apéro](https://hugo-apero.netlify.app/)!)
++ [Allison Horst :dog2:](https://www.allisonhorst.com/)
 
-+ [Christophe Dervieux :crayon:](http://cderv.rbind.io/) (thinking through blogdown/Hugo intricacies and syntax highlighting)
++ [Maëlle Salmon :fishing_pole_and_fish:](https://masalmon.eu/)
 
-+ [Yihui Xie :martial_arts_uniform:](https://yihui.org/) (for the blogdown package, getting me hooked on Hugo, and helping me with layout code inspired by his many Hugo themes)
++ [Christophe Dervieux :crayon:](http://cderv.rbind.io/)
 
-+ [Athanasia Monika Mowinckel :purple_heart:](https://drmowinckels.io/) (for help finding :bug: and SASS support for making color themes work so much better :art:)
++ [Yihui Xie :martial_arts_uniform:](https://yihui.org/)
 
-And last but not least, Eric Anderson and the team at [Formspree](https://formspree.io/) for developing a Hugo theme with such great bones: <https://github.com/formspree/blogophonic-hugo>
++ [Athanasia Monika Mowinckel :purple_heart:](https://drmowinckels.io/)
+
++ Eric Anderson et l'équipe de  [Formspree](https://formspree.io/)
