@@ -152,7 +152,7 @@ enableEmoji = true
   [[menu.footer]]
     name = "Contact"
     title = "Contact form"
-    url = "/contact/"
+    url = "/contacts/"
     weight = 2
   [[menu.footer]]
     name = "Héritage"
