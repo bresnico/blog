@@ -31,7 +31,7 @@ title: Bakeoff
 
 ---
 
-### Functional Form
+### Functional Forme
 
 This theme has a **form-to-email** feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form
 (`/content/forms/contact.md`). Of course, the example shown below (`your@email.here`) must not be used. Please use your actual email address.
