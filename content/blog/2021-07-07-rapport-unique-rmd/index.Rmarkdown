@@ -1,10 +1,10 @@
 ---
-title: "An Rmarkdown post"
+title: "Automatisation des rapports"
 subtitle: ""
-excerpt: "testing the excerpt field"
-date: 2020-12-30
-author: "Alison Hill"
-draft: true
+excerpt: "Pistes pour appliquer le principe DRY !"
+date: 2021-07-14
+author: "Nicolas Bressoud"
+draft: false
 images:
 series:
 tags:
@@ -12,6 +12,11 @@ categories:
 layout: single
 ---
 
+DRY : don't repeat yourself.
+
+YAML : params avec les choix.
+
+Bonnes pratiques. etc.
 
 ## Air quality
 

@@ -1,9 +1,9 @@
 ---
-title: "An Rmarkdown post"
+title: "Analyses multiniveaux"
 subtitle: ""
-excerpt: "testing the excerpt field"
-date: 2020-12-30
-author: "Alison Hill"
+excerpt: "Notes à moi-même pour comprendre le principe de ce type d'analyses"
+date: 2021-07-14
+author: "Nicolas Bressoud"
 draft: true
 images:
 series:
@@ -12,6 +12,7 @@ categories:
 layout: single
 ---
 
+On y mettra nos ressources. Nos interprétations.
 
 ## Air quality
 

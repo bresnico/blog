@@ -1,10 +1,10 @@
 ---
-title: "An Rmarkdown post"
+title: "Gérer mon CV avec Zotero et R"
 subtitle: ""
-excerpt: "testing the excerpt field"
-date: 2020-12-30
-author: "Alison Hill"
-draft: true
+excerpt: "Mise à jour automatique des publications aux normes APA."
+date: 2021-07-14
+author: "Nicolas Bressoud"
+draft: false
 images:
 series:
 tags:
@@ -12,6 +12,7 @@ categories:
 layout: single
 ---
 
+L'enjeu sera de produire une liste de publi selon les conventions de CV et pas par défaut (à travailler !).
 
 ## Air quality
 

@@ -1,10 +1,10 @@
 ---
-title: "An Rmarkdown post"
+title: "Travailler avec Blogdown"
 subtitle: ""
-excerpt: "testing the excerpt field"
-date: 2020-12-30
-author: "Alison Hill"
-draft: true
+excerpt: "Ce post clarifie des procédures pour blogdown."
+date: 2021-07-14
+author: "Nicolas Bressoud"
+draft: false
 images:
 series:
 tags:
