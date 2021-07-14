@@ -1,14 +1,15 @@
 ---
 title: Forces ECPP
 author: Nicolas Bressoud
-date: '2021-07-07'
+date_end: "2021-08-20T15:00:00Z"
+all_day: false
+publishdate: "2021-08-20T13:00:00Z"
 slug: ecpp-2022
 categories:
   - workshop
 tags: []
 subtitle: ''
 excerpt: ''
-date_end: '2021-07-07T08:53:48+02:00'
 location: Online
 series: ~
 layout: single

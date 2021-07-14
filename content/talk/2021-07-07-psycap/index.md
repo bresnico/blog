@@ -1,14 +1,15 @@
 ---
 title: PsyCap 2021
 author: Nicolas Bressoud
-date: '2021-07-07'
+date_end: "2021-08-20T15:00:00Z"
+all_day: false
+publishdate: "2021-08-20T13:00:00Z"
 slug: psycap-2021
 categories:
   - workshop
 tags: []
 subtitle: ''
 excerpt: "résumé de l'événement"
-date_end: '2021-07-07T08:53:48+02:00'
 location: Locarno
 series: ~
 layout: single
