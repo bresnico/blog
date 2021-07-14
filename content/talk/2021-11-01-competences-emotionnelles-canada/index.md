@@ -9,7 +9,7 @@ categories:
 date: "2021-11-01"
 date_end: "2021-11-01"
 draft: false
-event: Revue canadienne
+event: Ecole Branchée
 event_url: /
 excerpt: Proposition de collaboration initiée par Philippe Gay. Elle concerne la régulation des émotions.
 featured: true
@@ -20,10 +20,16 @@ links:
   name: article
   url: /
 
-location: Canada
+location: Revue Ecole Branchée
 show_post_time: false
 subtitle: Régulation des émotions
 title: Régulation des émotions titre
 ---
 
-On se réjouit. résumé
+Cadre
+
+Collaborations
+
+Key message
+
+Publication

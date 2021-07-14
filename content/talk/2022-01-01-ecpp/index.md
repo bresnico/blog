@@ -1,8 +1,8 @@
 ---
-title: PsyCap 2021
+title: Forces ECPP
 author: Nicolas Bressoud
 date: '2021-07-07'
-slug: psycap-2021
+slug: ecpp-2022
 categories:
   - workshop
 tags: []
@@ -18,3 +18,10 @@ links:
   name: website
   url: /
 ---
+
+
+Participants
+
+Intérêt
+
+Publication
