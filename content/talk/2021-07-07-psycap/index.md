@@ -1,7 +1,7 @@
 ---
 title: PsyCap 2021
 author: Nicolas Bressoud
-publishdate: "2021-15-07"
+# publishdate: "2021-15-07"
 date: "2021-08-20T13:00:00Z"
 date_end: "2021-08-20T15:00:00Z"
 all_day: false
