@@ -3,10 +3,11 @@ author: Nicolas Bressoud
   
 categories:
 - article
-date: "2021-11-01"
-date_end: "2021-11-01"
+publishdate: "2021-07-20"
+date: "2021-11-27"
+date_end: "2021-11-27"
 draft: false
-event: APEDYS
+event: APEDYS ?
 event_url: /
 excerpt: Forces et inclusion
 featured: true
@@ -14,10 +15,10 @@ layout: single
 links:
 - icon: door-open
   icon_pack: fas
-  name: article
+  name: Slides
   url: /
 
-location: France
+location: France ?
 show_post_time: false
 subtitle: Forces sous-titre
 title: Forces et inclusion

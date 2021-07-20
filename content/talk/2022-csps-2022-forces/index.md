@@ -3,8 +3,10 @@ author: Nicolas Bressoud
   
 categories:
 - conférence
-date: "2021-11-01"
-date_end: "2021-11-01"
+publishdate: "2021-07-20"
+date: "2022-08-01"
+date_end: "2022-08-01"
+all_day: true
 draft: false
 event: CSPS 2022
 event_url: /
@@ -14,7 +16,7 @@ layout: single
 links:
 - icon: door-open
   icon_pack: fas
-  name: article
+  name: Slides
   url: /
 
 location: Suisse

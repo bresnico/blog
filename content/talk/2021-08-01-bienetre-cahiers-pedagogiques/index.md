@@ -3,11 +3,14 @@ author: Nicolas Bressoud
   
 categories:
 - article
+publishdate: "2021-07-20"
+all_day: false
 date: "2021-11-01"
 date_end: "2021-11-01"
 draft: false
-event: Cahiers pédagogiques
+event: Article
 event_url: /
+location: Revue
 excerpt: Bien-être
 featured: true
 layout: single

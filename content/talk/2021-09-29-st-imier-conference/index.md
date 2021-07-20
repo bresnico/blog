@@ -3,10 +3,11 @@ author: Nicolas Bressoud
   
 categories:
 - article
-date: "2021-11-01"
-date_end: "2021-11-01"
+publishdate: "2021-07-20"
+date: "2021-11-03T08:00:00Z"
+date_end: "2021-11-03T17:00:00Z"
 draft: false
-event: Formation St-Imier
+event: Formation continue
 event_url: /
 excerpt: Conférence
 featured: true
@@ -14,10 +15,10 @@ layout: single
 links:
 - icon: door-open
   icon_pack: fas
-  name: article
+  name: Ressources
   url: /
 
-location: Suisse
+location: St-Imier, Suisse
 show_post_time: false
 subtitle: Neurosciences
 title: Apprendre

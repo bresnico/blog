@@ -3,10 +3,12 @@ author: Nicolas Bressoud
   
 categories:
 - article
+publishdate: "2021-07-20"
 date: "2021-11-01"
+all_day: True
 date_end: "2021-11-01"
 draft: false
-event: Revue CSPS
+event: Article
 event_url: /
 excerpt: Education positive
 featured: true
@@ -17,7 +19,7 @@ links:
   name: article
   url: /
 
-location: Revue CSPS
+location: Revue
 show_post_time: false
 subtitle: Education positive et ES
 title: Education positive

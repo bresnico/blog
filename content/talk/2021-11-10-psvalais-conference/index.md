@@ -3,8 +3,10 @@ author: Nicolas Bressoud
   
 categories:
 - article
-date: "2021-11-01"
-date_end: "2021-11-01"
+publishdate: "2021-07-20"
+date: "2021-11-03"
+date_end: "2021-11-03"
+all_day: True
 draft: false
 event: PS Valais
 event_url: /
@@ -17,7 +19,7 @@ links:
   name: article
   url: /
 
-location: Suisse
+location: Sion, Suisse
 show_post_time: false
 subtitle: Conférence PS Valais
 title: PS Valais

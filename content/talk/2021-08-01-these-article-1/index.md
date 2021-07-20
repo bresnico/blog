@@ -3,10 +3,12 @@ author: Nicolas Bressoud
   
 categories:
 - article
-date: "2021-11-01"
-date_end: "2021-11-01"
+publishdate: "2021-07-20"
+date: "2021-09-24"
+all_day: True
+date_end: ""
 draft: false
-event: Bonheur
+event: Thèse
 event_url: /
 excerpt: Article 1
 featured: true
@@ -14,7 +16,7 @@ layout: single
 links:
 - icon: door-open
   icon_pack: fas
-  name: article
+  name: Article
   url: /
 
 location: France
@@ -24,8 +26,12 @@ title: Bonheur
 ---
 
 
-Participants
+Auteur·es :
 
-Intérêt
+Sujet :
 
-Publication
+Matériel :
+
+Intérêt scientitique :
+
+Publication envisagée : 

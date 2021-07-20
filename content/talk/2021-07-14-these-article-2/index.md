@@ -15,7 +15,7 @@ layout: single
 links:
 - icon: door-open
   icon_pack: fas
-  name: article
+  name: Article
   url: /
 
 location: France

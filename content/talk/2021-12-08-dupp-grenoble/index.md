@@ -3,10 +3,11 @@ author: Nicolas Bressoud
   
 categories:
 - article
-date: "2021-11-01"
-date_end: "2021-11-01"
+publishdate: "2021-07-20"
+date: "2021-12-08T09:00:00Z"
+date_end: "2021-12-08T12:00:00Z"
 draft: false
-event: DUPP 2021
+event: DUPP Grenoble 2021
 event_url: /
 excerpt: Formation
 featured: true
@@ -14,10 +15,10 @@ layout: single
 links:
 - icon: door-open
   icon_pack: fas
-  name: article
+  name: Slides
   url: /
 
-location: France
+location: Grenoble, France
 show_post_time: false
 subtitle: Projet scolaire
 title: Forces en classe

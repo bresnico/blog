@@ -3,8 +3,10 @@ author: Nicolas Bressoud
   
 categories:
 - article
-date: "2021-11-01"
-date_end: "2021-11-01"
+publishdate: "2021-07-20"
+all_day: true
+date: "2021-11-12"
+date_end: "2021-11-12"
 draft: false
 event: Journée formation
 event_url: /
@@ -17,7 +19,7 @@ links:
   name: article
   url: /
 
-location: France
+location: Paris, France
 show_post_time: false
 subtitle: Forces et climat de classe
 title: Forces en contexte scolaire
