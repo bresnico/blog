@@ -1,6 +1,9 @@
 ---
 title: PsyCap 2021
-author: Nicolas Bressoud
+author: 
+  - Nicolas Bressoud
+  - Jean-Paul Fai
+  - Elena Lucciarini
 publishdate: "2021-07-15"
 date: "2021-08-20T13:00:00Z"
 date_end: "2021-08-20T15:00:00Z"

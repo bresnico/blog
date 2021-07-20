@@ -3,8 +3,9 @@ author: Nicolas Bressoud
   
 categories:
 - article
-date: "2021-11-01"
-date_end: "2021-11-01"
+publishdate: "2021-07-20"
+date: ""
+date_end: ""
 draft: false
 event: Thèse
 event_url: /
@@ -23,9 +24,12 @@ subtitle: Validation SUS F adulte
 title: SUS
 ---
 
+Auteur·es :
 
-Participants
+Sujet :
 
-Intérêt
+Matériel :
 
-Publication
+Intérêt scientitique :
+
+Publication envisagée : 

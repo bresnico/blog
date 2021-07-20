@@ -3,12 +3,13 @@ author: Nicolas Bressoud
   
 categories:
 - article
-date: "2021-11-01"
-date_end: "2021-11-01"
+publishdate: "2021-07-20"
+date: ""
+date_end: ""
 draft: false
 event: Article conseil de coopération
 event_url: /
-excerpt: Fruit du mémoire de Bacheloer.
+excerpt: Fruit du mémoire de Bachelor.
 featured: true
 layout: single
 links:
@@ -23,8 +24,14 @@ subtitle: Conseil de coopération
 title: Conseil de coopération
 ---
 
-Participants
+Ce post constitue une annonce de préparation d'article peer-reviewed.
 
-Intérêt
+Auteur·es :
 
-Publication
+Sujet :
+
+Matériel :
+
+Intérêt scientitique :
+
+Publication envisagée : 
