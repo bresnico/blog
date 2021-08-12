@@ -9,7 +9,7 @@ intro: |
   Ce site permet de recenser les productions et trouvailles qui concernent mes travaux de thèse... de près ou de loin. J'aurais pu faire un Padlet. Ca aurait été plus pratique...mais moins rigolo.
 show_outro: true
 outro: |
-  <i class="fas fa-glass-cheers pr2"></i>Un grand merci a [Alison Hill]("https://alison.rbind.io") et ses collègues pour la programmation et les tutos de Hugo Apéro !
+  <i class="fas fa-glass-cheers pr2"></i>Un grand merci à [Alison Hill](https://alison.rbind.io) et ses collègues pour la programmation et les tutos de Hugo Apéro !
 ---
 
 ** index doesn't contain a body, just front matter above.
