@@ -1,4 +1,4 @@
-baseURL = "https://blog.nicolasbressoud.ch"
+instalbaseURL = "https://blog.nicolasbressoud.ch"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Emotions, Apprentissages et Bien-être"

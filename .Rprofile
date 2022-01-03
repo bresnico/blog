@@ -20,4 +20,5 @@ options(
 )
 
 # fix Hugo version
-options(blogdown.hugo.version = "0.80.0")
+# remove NBR du 3 janvier 2022 ci-dessous:
+# options(blogdown.hugo.version = "0.80.0")
