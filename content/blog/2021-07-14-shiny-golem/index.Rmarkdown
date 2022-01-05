@@ -11,6 +11,7 @@ subtitle: ''
 excerpt: "Ce post vise à poser les apprentissages en cours concernant l'utilisation de Shiny et la production avec Golem."
 series: ~
 layout: single
+draft: true
 ---
 
 Ce post vise à poser les apprentissages en cours concernant l'utilisation de Shiny et la production avec Golem.

@@ -15,7 +15,7 @@ layout: single
 links:
 - icon: door-open
   icon_pack: fas
-  name: Article
+  name: Article (en construction)
   url: /
 
 location: France
@@ -26,12 +26,12 @@ title: Conseil de coopération
 
 Ce post constitue une annonce de préparation d'article peer-reviewed.
 
-Auteur·es :
+Auteur·es : Cassaz et al.
 
-Sujet :
+Sujet : Conseil de coopération
 
-Matériel :
+Matériel : Feuille de route pour la création et la gestion d'un conseil de coopération
 
-Intérêt scientitique :
+Intérêt scientitique : La recherche est expérimentale ; elle évalue l'effet de l'introduction du conseil de coopération sur l'inhibition des élèves du cycle 1 (PER).
 
-Publication envisagée : 
+Publication envisagée : Revue internationale dans le thème des sciences de l'éducation, open access, anglais, peer reviewed.

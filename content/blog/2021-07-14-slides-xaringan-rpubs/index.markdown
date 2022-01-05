@@ -10,7 +10,7 @@ tags: []
 subtitle: ''
 excerpt: 'Ce post propose un workflow et des synthèses de pistes pour créer des slides facilement diffusables.'
 series: ~
-layout: single
+draft: true
 ---
 
 Ce post propose un workflow et des synthèses de pistes pour créer des slides facilement diffusables.

@@ -20,13 +20,19 @@ layout: single
 links:
 - icon: door-open
   icon_pack: fas
-  name: Slides
+  name: Slides sur demande
   url: /
 ---
 
-Description de l'événement (cadre)
+# Description de l'événement (cadre)
 
-Key message du talk
+Cet événement a été organisé par la SUPSI au Tessin.
 
-Remerciements
+# Key message du talk
+
+Le talk a permis de mettre en évidence des activités scolaires autour de forces.
+
+# Remerciements
+
+Merci à l'équipe de la SUPSI pour l'invitation et l'organisation.
 

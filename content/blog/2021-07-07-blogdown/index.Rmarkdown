@@ -4,7 +4,7 @@ subtitle: ""
 excerpt: "Ce post clarifie des procédures pour blogdown."
 date: 2021-07-14
 author: "Nicolas Bressoud"
-draft: false
+draft: true
 images:
 series:
 tags:

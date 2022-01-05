@@ -7,7 +7,7 @@ publishdate: "2021-07-20"
 all_day: false
 date: "2021-11-01"
 date_end: "2021-11-01"
-draft: false
+draft: true
 event: Article
 event_url: /
 location: Revue
