@@ -1,5 +1,7 @@
 ---
-author: Nicolas Bressoud
+author:
+- Philippe Gay
+- Nicolas Bressoud
   
 categories:
 - article

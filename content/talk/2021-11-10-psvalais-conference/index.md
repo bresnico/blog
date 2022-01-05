@@ -1,5 +1,7 @@
 ---
-author: Nicolas Bressoud
+author: 
+- Nicolas Burel
+- Nicolas Bressoud
   
 categories:
 - article

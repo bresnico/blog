@@ -1,5 +1,7 @@
 ---
-author: Nicolas Bressoud
+author:
+- Samuel Rey-Mermet
+- Nicolas Bressoud
 categories:
 - learn
 date: "2021-07-14"

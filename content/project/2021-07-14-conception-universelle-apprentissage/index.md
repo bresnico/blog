@@ -1,5 +1,8 @@
 ---
-author: Nicolas Bressoud
+author:
+- Lionel Alvarez
+- Nicolas Bressoud
+- Philippe Gay
 categories:
 - R
 date: "2021-07-14"
@@ -24,6 +27,7 @@ subtitle: ""
 tags:
 title: Conception universelle de l'apprentissage
 ---
+
 
 Début
 Fin

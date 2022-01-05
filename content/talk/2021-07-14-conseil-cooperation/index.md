@@ -1,6 +1,8 @@
 ---
-author: Nicolas Bressoud
-  
+author: 
+- Amélie Cassaz
+- Nicolas Bressoud
+- et al.  
 categories:
 - article
 publishdate: "2021-07-20"

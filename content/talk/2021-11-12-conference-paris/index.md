@@ -1,5 +1,7 @@
 ---
-author: Nicolas Bressoud
+author:
+- Nicolas Bressoud
+- Samuel Darbellay
   
 categories:
 - article

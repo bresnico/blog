@@ -4,7 +4,7 @@ subtitle: ""
 excerpt: "Pistes pour appliquer le principe DRY !"
 date: 2021-07-14
 author: "Nicolas Bressoud"
-draft: false
+draft: true
 images:
 series:
 tags:

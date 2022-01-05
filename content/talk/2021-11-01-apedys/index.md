@@ -29,4 +29,4 @@ Participants
 
 Intérêt
 
-Publication
+Remerciements
